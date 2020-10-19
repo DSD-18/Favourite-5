@@ -78,6 +78,10 @@ img {
 }
 img:hover{
     transform: scale(0.9);
+a {
+    text-decoration: none;
+    text-shadow: 2px 2px gainsboro;
+}
 }
 #contact {
     background: firebrick;
